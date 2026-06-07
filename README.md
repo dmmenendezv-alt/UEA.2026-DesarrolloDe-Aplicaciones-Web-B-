@@ -1,6 +1,6 @@
 # Tarea: Estructura Básica de HTML
 
-Este repositorio contiene el desarrollo de la actividad práctica de la asignatura **Bases de Datos**.
+Este repositorio contiene el desarrollo de la actividad práctica de la asignatura Desarrollo de Aplicaciones Web.
 
 ## Información del Estudiante
 * **Nombre:** Diana Menendez
